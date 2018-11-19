@@ -1,0 +1,23 @@
+body{
+   background-image: url("background.jpg");
+   background-repeat: no-repeat, no-repeat;
+   background-size: 100%;
+ }
+h3{
+ color: #006666;
+ font-family: 'Oswald', sans-serif;
+}
+
+h5{
+ color: #006666;
+ font-family: 'Oswald', sans-serif;
+}
+
+
+.welcome{
+ color: #001a1a;
+ font-family: 'Oswald', sans-serif;
+}
+img{
+ width: 100%;
+}
